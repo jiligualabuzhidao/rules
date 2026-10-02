@@ -30,7 +30,9 @@
         "testflight.apple.com",
         "tv.applemusic.com",
         "uts-api.itunes.apple.com"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "apple-dns.net",
         "apple.news",
@@ -44,7 +46,9 @@
         "hls.itunes.apple.com",
         "ocsp.apple.com",
         "tv.apple.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "LookupViewService"
       ]

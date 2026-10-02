@@ -271,7 +271,9 @@
         "zuikzy.win7i.com",
         "zzlive.zzc-media.com",
         "zzq12345.gearhostpreview.com"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "115.com",
         "115cdn.com",
@@ -111527,7 +111529,9 @@
         "xiaoapp.io",
         "xiaoma.io",
         "zhixiaochengxu.com"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         ".tmall.com",
         "alicdn",
@@ -111542,7 +111546,9 @@
         "hnagroup",
         "stripe",
         "weibo"
-      ],
+      ]
+    },
+    {
       "ip_cidr": [
         "0.0.0.0/32",
         "1.0.1.0/24",
@@ -124028,7 +124034,9 @@
         "::ffff:60.171.183.161/128",
         "::ffff:60.171.183.186/128",
         "::ffff:60.171.183.98/128"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.taobao.taobao",
         "com.bilibili.app.blue",

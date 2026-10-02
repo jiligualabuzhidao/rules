@@ -56,7 +56,9 @@
         "p.bstarstatic.com",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "acg.tv",
         "acgvideo.com",
@@ -120,7 +122,9 @@
         "upos-hz-mirrorakam.akamaized.net",
         "uposdash-302-bilivideo.yfcdn.net",
         "yo9.com"
-      ],
+      ]
+    },
+    {
       "ip_cidr": [
         "106.75.74.76/32",
         "111.206.25.147/32",
@@ -130,7 +134,9 @@
         "120.92.153.217/32",
         "134.175.207.130/32",
         "203.107.1.0/24"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.bilibili.app.blue",
         "com.bilibili.app.in",

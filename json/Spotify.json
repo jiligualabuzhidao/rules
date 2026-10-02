@@ -9,7 +9,9 @@
         "spotify.com.edgesuite.net",
         "spotify.map.fastly.net",
         "spotify.map.fastlylb.net"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "audio-ak-spotify-com.akamaized.net",
         "byspotify.com",
@@ -31,14 +33,20 @@
         "spotifynewsroom.jp",
         "spotilocal.com",
         "tospotify.com"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         "spotify"
-      ],
+      ]
+    },
+    {
       "ip_cidr": [
         "104.154.127.126/32",
         "35.186.224.47/32"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.spotify.music"
       ]

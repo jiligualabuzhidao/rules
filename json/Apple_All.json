@@ -12,7 +12,9 @@
         "icons.axm-usercontent-apple.com",
         "lookup-api.apple.com.edgekey.net",
         "p-events-delivery.akamaized.net"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "100beatscheap.com",
         "1monsterbeatsbydreus.com",
@@ -1565,7 +1567,9 @@
         "myicloud.net",
         "mylcloud.net",
         "wwwicloud.com"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         "apple-support.akadns.net",
         "apple.com.akadns.net",
@@ -1574,7 +1578,9 @@
         "smp-device",
         "testflight",
         "icloud.com.akadns.net"
-      ],
+      ]
+    },
+    {
       "ip_cidr": [
         "139.178.128.0/18",
         "144.178.0.0/19",
@@ -1589,7 +1595,9 @@
         "2403:300::/32",
         "2620:149::/32",
         "2a01:b740::/32"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "CoreLocationAgent",
         "WeatherWidget",

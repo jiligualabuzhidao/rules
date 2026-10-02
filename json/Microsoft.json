@@ -4,7 +4,9 @@
     {
       "domain": [
         "vsmarketplacebadge.apphb.com"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "1drv.ms",
         "21vbc.com",
@@ -669,13 +671,17 @@
         "sharepoint.com",
         "sharepointonline.com",
         "spoprod-a.akamaihd.net"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         "microsoft",
         "1drv",
         "onedrive",
         "skydrive"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "OneDrive",
         "OneDriveUpdater"

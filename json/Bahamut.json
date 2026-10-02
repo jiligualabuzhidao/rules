@@ -4,7 +4,9 @@
     {
       "domain": [
         "bahamut.akamaized.net"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "bahamut.com.tw",
         "digicert.com",

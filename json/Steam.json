@@ -54,7 +54,9 @@
         "underlords.com",
         "valvesoftware.com",
         "wmsjsteam.com"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         "steambroadcast",
         "steamstore",
