@@ -175,7 +175,7 @@ def convert(input_path: str):
 
     source = OrderedDict([
         ("version", 5),
-        ("rules", [rule_obj] if rule_obj else []),
+        ("rules", [{field: values} for field, values in rule_obj.items()]),
     ])
 
     return source, warnings, buckets
