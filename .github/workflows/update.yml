@@ -9,6 +9,7 @@ on:
       - rules_list.txt
       - rules_json.txt
       - list2singbox.py
+      - 'mine/*.list'
       - .github/workflows/update.yml
 
 permissions:
@@ -86,12 +87,12 @@ jobs:
       #       list2singbox.py writes version 5 directly, and the actual
       #       .srs is produced later by the official `sing-box rule-set
       #       compile`, same as the rules_json.txt path below. =====
-      - name: Convert .list -> .json (version 5) with list2singbox.py
+      - name: Convert list/ and mine/ .list -> .json (version 5) with list2singbox.py
         shell: bash
         run: |
           set -euo pipefail
           shopt -s nullglob
-          for f in list/*.list; do
+          for f in list/*.list mine/*.list; do
             echo "Converting $f"
             python3 list2singbox.py "$f" -o "json/$(basename "${f%.list}.json")"
           done
